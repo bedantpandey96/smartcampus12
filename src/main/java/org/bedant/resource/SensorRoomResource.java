@@ -12,7 +12,7 @@ import java.util.Collection;
 @Path("rooms")
 @Produces(MediaType.APPLICATION_JSON)
 @Consumes(MediaType.APPLICATION_JSON)
-public class RoomResource {
+public class SensorRoomResource {
     @GET
     public Collection<Room> all() {
         return TempDatabase.rooms.values();
