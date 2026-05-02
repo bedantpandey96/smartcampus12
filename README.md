@@ -184,8 +184,7 @@ Using filters centralizes logging logic and avoids duplication across resource m
 
 ## 👥 Contributors
 
-* Bedant Pandey (Team Lead)
-* Prabin Pandey
+* Bedant Pandey
 
 ---
 
